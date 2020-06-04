@@ -1,0 +1,24 @@
+{
+  "name": "selfproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "mongoose": "^5.9.17",
+    "needle": "^2.5.0",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {
+    "keys": "^0.1.2"
+  },
+  "scripts": {
+    "dev": "nodemon node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

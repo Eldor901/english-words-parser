@@ -1,0 +1,5 @@
+**/keys.js
+.env
+node_modules
+*keys.js
+.idea
